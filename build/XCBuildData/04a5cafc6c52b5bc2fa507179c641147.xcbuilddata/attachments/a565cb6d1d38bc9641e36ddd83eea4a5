@@ -1,0 +1,219 @@
+{
+  "" : {
+    "diagnostics" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/quizbank4apple-primary.dia",
+    "emit-module-dependencies" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/quizbank4apple-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/quizbank4apple-primary-emit-module.dia",
+    "pch" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/quizbank4apple-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/quizbank4apple-primary.swiftdeps"
+  },
+  "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Volumes/DataBag/quizbankapp/quizbank4apple/quizbank4apple/ContentView.swift" : {
+    "const-values" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Volumes/DataBag/quizbankapp/quizbank4apple/quizbank4apple/Models/CSVParser.swift" : {
+    "const-values" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/CSVParser.swiftconstvalues",
+    "dependencies" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/CSVParser.d",
+    "diagnostics" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/CSVParser.dia",
+    "index-unit-output-path" : "/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/CSVParser.o",
+    "llvm-bc" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/CSVParser.bc",
+    "object" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/CSVParser.o",
+    "swift-dependencies" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/CSVParser.swiftdeps",
+    "swiftmodule" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/CSVParser~partial.swiftmodule"
+  },
+  "/Volumes/DataBag/quizbankapp/quizbank4apple/quizbank4apple/Models/Challenge.swift" : {
+    "const-values" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/Challenge.swiftconstvalues",
+    "dependencies" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/Challenge.d",
+    "diagnostics" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/Challenge.dia",
+    "index-unit-output-path" : "/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/Challenge.o",
+    "llvm-bc" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/Challenge.bc",
+    "object" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/Challenge.o",
+    "swift-dependencies" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/Challenge.swiftdeps",
+    "swiftmodule" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/Challenge~partial.swiftmodule"
+  },
+  "/Volumes/DataBag/quizbankapp/quizbank4apple/quizbank4apple/Models/DataManager.swift" : {
+    "const-values" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/DataManager.swiftconstvalues",
+    "dependencies" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/DataManager.d",
+    "diagnostics" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/DataManager.dia",
+    "index-unit-output-path" : "/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/DataManager.o",
+    "llvm-bc" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/DataManager.bc",
+    "object" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/DataManager.o",
+    "swift-dependencies" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/DataManager.swiftdeps",
+    "swiftmodule" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/DataManager~partial.swiftmodule"
+  },
+  "/Volumes/DataBag/quizbankapp/quizbank4apple/quizbank4apple/Models/Question.swift" : {
+    "const-values" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/Question.swiftconstvalues",
+    "dependencies" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/Question.d",
+    "diagnostics" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/Question.dia",
+    "index-unit-output-path" : "/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/Question.o",
+    "llvm-bc" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/Question.bc",
+    "object" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/Question.o",
+    "swift-dependencies" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/Question.swiftdeps",
+    "swiftmodule" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/Question~partial.swiftmodule"
+  },
+  "/Volumes/DataBag/quizbankapp/quizbank4apple/quizbank4apple/Models/UserStats.swift" : {
+    "const-values" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/UserStats.swiftconstvalues",
+    "dependencies" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/UserStats.d",
+    "diagnostics" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/UserStats.dia",
+    "index-unit-output-path" : "/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/UserStats.o",
+    "llvm-bc" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/UserStats.bc",
+    "object" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/UserStats.o",
+    "swift-dependencies" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/UserStats.swiftdeps",
+    "swiftmodule" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/UserStats~partial.swiftmodule"
+  },
+  "/Volumes/DataBag/quizbankapp/quizbank4apple/quizbank4apple/ViewModels/ChallengeViewModel.swift" : {
+    "const-values" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/ChallengeViewModel.swiftconstvalues",
+    "dependencies" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/ChallengeViewModel.d",
+    "diagnostics" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/ChallengeViewModel.dia",
+    "index-unit-output-path" : "/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/ChallengeViewModel.o",
+    "llvm-bc" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/ChallengeViewModel.bc",
+    "object" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/ChallengeViewModel.o",
+    "swift-dependencies" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/ChallengeViewModel.swiftdeps",
+    "swiftmodule" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/ChallengeViewModel~partial.swiftmodule"
+  },
+  "/Volumes/DataBag/quizbankapp/quizbank4apple/quizbank4apple/ViewModels/HomeViewModel.swift" : {
+    "const-values" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/HomeViewModel.swiftconstvalues",
+    "dependencies" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/HomeViewModel.d",
+    "diagnostics" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/HomeViewModel.dia",
+    "index-unit-output-path" : "/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/HomeViewModel.o",
+    "llvm-bc" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/HomeViewModel.bc",
+    "object" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/HomeViewModel.o",
+    "swift-dependencies" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/HomeViewModel.swiftdeps",
+    "swiftmodule" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/HomeViewModel~partial.swiftmodule"
+  },
+  "/Volumes/DataBag/quizbankapp/quizbank4apple/quizbank4apple/ViewModels/ReviewMistakesViewModel.swift" : {
+    "const-values" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/ReviewMistakesViewModel.swiftconstvalues",
+    "dependencies" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/ReviewMistakesViewModel.d",
+    "diagnostics" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/ReviewMistakesViewModel.dia",
+    "index-unit-output-path" : "/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/ReviewMistakesViewModel.o",
+    "llvm-bc" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/ReviewMistakesViewModel.bc",
+    "object" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/ReviewMistakesViewModel.o",
+    "swift-dependencies" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/ReviewMistakesViewModel.swiftdeps",
+    "swiftmodule" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/ReviewMistakesViewModel~partial.swiftmodule"
+  },
+  "/Volumes/DataBag/quizbankapp/quizbank4apple/quizbank4apple/ViewModels/StatsViewModel.swift" : {
+    "const-values" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/StatsViewModel.swiftconstvalues",
+    "dependencies" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/StatsViewModel.d",
+    "diagnostics" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/StatsViewModel.dia",
+    "index-unit-output-path" : "/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/StatsViewModel.o",
+    "llvm-bc" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/StatsViewModel.bc",
+    "object" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/StatsViewModel.o",
+    "swift-dependencies" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/StatsViewModel.swiftdeps",
+    "swiftmodule" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/StatsViewModel~partial.swiftmodule"
+  },
+  "/Volumes/DataBag/quizbankapp/quizbank4apple/quizbank4apple/Views/ChallengeView.swift" : {
+    "const-values" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/ChallengeView.swiftconstvalues",
+    "dependencies" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/ChallengeView.d",
+    "diagnostics" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/ChallengeView.dia",
+    "index-unit-output-path" : "/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/ChallengeView.o",
+    "llvm-bc" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/ChallengeView.bc",
+    "object" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/ChallengeView.o",
+    "swift-dependencies" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/ChallengeView.swiftdeps",
+    "swiftmodule" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/ChallengeView~partial.swiftmodule"
+  },
+  "/Volumes/DataBag/quizbankapp/quizbank4apple/quizbank4apple/Views/Components/LiquidGlassButton.swift" : {
+    "const-values" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/LiquidGlassButton.swiftconstvalues",
+    "dependencies" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/LiquidGlassButton.d",
+    "diagnostics" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/LiquidGlassButton.dia",
+    "index-unit-output-path" : "/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/LiquidGlassButton.o",
+    "llvm-bc" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/LiquidGlassButton.bc",
+    "object" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/LiquidGlassButton.o",
+    "swift-dependencies" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/LiquidGlassButton.swiftdeps",
+    "swiftmodule" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/LiquidGlassButton~partial.swiftmodule"
+  },
+  "/Volumes/DataBag/quizbankapp/quizbank4apple/quizbank4apple/Views/Components/LiquidGlassCard.swift" : {
+    "const-values" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/LiquidGlassCard.swiftconstvalues",
+    "dependencies" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/LiquidGlassCard.d",
+    "diagnostics" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/LiquidGlassCard.dia",
+    "index-unit-output-path" : "/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/LiquidGlassCard.o",
+    "llvm-bc" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/LiquidGlassCard.bc",
+    "object" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/LiquidGlassCard.o",
+    "swift-dependencies" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/LiquidGlassCard.swiftdeps",
+    "swiftmodule" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/LiquidGlassCard~partial.swiftmodule"
+  },
+  "/Volumes/DataBag/quizbankapp/quizbank4apple/quizbank4apple/Views/Components/NewChallengeView.swift" : {
+    "const-values" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/NewChallengeView.swiftconstvalues",
+    "dependencies" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/NewChallengeView.d",
+    "diagnostics" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/NewChallengeView.dia",
+    "index-unit-output-path" : "/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/NewChallengeView.o",
+    "llvm-bc" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/NewChallengeView.bc",
+    "object" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/NewChallengeView.o",
+    "swift-dependencies" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/NewChallengeView.swiftdeps",
+    "swiftmodule" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/NewChallengeView~partial.swiftmodule"
+  },
+  "/Volumes/DataBag/quizbankapp/quizbank4apple/quizbank4apple/Views/Components/QuestionBankSelectorView.swift" : {
+    "const-values" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/QuestionBankSelectorView.swiftconstvalues",
+    "dependencies" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/QuestionBankSelectorView.d",
+    "diagnostics" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/QuestionBankSelectorView.dia",
+    "index-unit-output-path" : "/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/QuestionBankSelectorView.o",
+    "llvm-bc" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/QuestionBankSelectorView.bc",
+    "object" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/QuestionBankSelectorView.o",
+    "swift-dependencies" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/QuestionBankSelectorView.swiftdeps",
+    "swiftmodule" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/QuestionBankSelectorView~partial.swiftmodule"
+  },
+  "/Volumes/DataBag/quizbankapp/quizbank4apple/quizbank4apple/Views/Components/ThemeSelectorView.swift" : {
+    "const-values" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/ThemeSelectorView.swiftconstvalues",
+    "dependencies" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/ThemeSelectorView.d",
+    "diagnostics" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/ThemeSelectorView.dia",
+    "index-unit-output-path" : "/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/ThemeSelectorView.o",
+    "llvm-bc" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/ThemeSelectorView.bc",
+    "object" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/ThemeSelectorView.o",
+    "swift-dependencies" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/ThemeSelectorView.swiftdeps",
+    "swiftmodule" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/ThemeSelectorView~partial.swiftmodule"
+  },
+  "/Volumes/DataBag/quizbankapp/quizbank4apple/quizbank4apple/Views/HomeView.swift" : {
+    "const-values" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/HomeView.swiftconstvalues",
+    "dependencies" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/HomeView.d",
+    "diagnostics" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/HomeView.dia",
+    "index-unit-output-path" : "/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/HomeView.o",
+    "llvm-bc" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/HomeView.bc",
+    "object" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/HomeView.o",
+    "swift-dependencies" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/HomeView.swiftdeps",
+    "swiftmodule" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/HomeView~partial.swiftmodule"
+  },
+  "/Volumes/DataBag/quizbankapp/quizbank4apple/quizbank4apple/Views/ReviewMistakesView.swift" : {
+    "const-values" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/ReviewMistakesView.swiftconstvalues",
+    "dependencies" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/ReviewMistakesView.d",
+    "diagnostics" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/ReviewMistakesView.dia",
+    "index-unit-output-path" : "/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/ReviewMistakesView.o",
+    "llvm-bc" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/ReviewMistakesView.bc",
+    "object" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/ReviewMistakesView.o",
+    "swift-dependencies" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/ReviewMistakesView.swiftdeps",
+    "swiftmodule" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/ReviewMistakesView~partial.swiftmodule"
+  },
+  "/Volumes/DataBag/quizbankapp/quizbank4apple/quizbank4apple/Views/StatsView.swift" : {
+    "const-values" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/StatsView.swiftconstvalues",
+    "dependencies" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/StatsView.d",
+    "diagnostics" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/StatsView.dia",
+    "index-unit-output-path" : "/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/StatsView.o",
+    "llvm-bc" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/StatsView.bc",
+    "object" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/StatsView.o",
+    "swift-dependencies" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/StatsView.swiftdeps",
+    "swiftmodule" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/StatsView~partial.swiftmodule"
+  },
+  "/Volumes/DataBag/quizbankapp/quizbank4apple/quizbank4apple/quizbank4appleApp.swift" : {
+    "const-values" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/quizbank4appleApp.swiftconstvalues",
+    "dependencies" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/quizbank4appleApp.d",
+    "diagnostics" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/quizbank4appleApp.dia",
+    "index-unit-output-path" : "/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/quizbank4appleApp.o",
+    "llvm-bc" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/quizbank4appleApp.bc",
+    "object" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/quizbank4appleApp.o",
+    "swift-dependencies" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/quizbank4appleApp.swiftdeps",
+    "swiftmodule" : "/Volumes/DataBag/quizbankapp/quizbank4apple/build/quizbank4apple.build/Debug-iphoneos/quizbank4apple.build/Objects-normal/arm64/quizbank4appleApp~partial.swiftmodule"
+  }
+}
