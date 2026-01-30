@@ -17,45 +17,7 @@ struct LiquidGlassCard<Content: View>: View {
     var body: some View {
         VStack(alignment: .leading, spacing: 0) {
             content
-        }
-        .background(
-            ZStack {
-                // Glass background
-                RoundedRectangle(cornerRadius: 16)
-                    .fill(.ultraThinMaterial)
-                    .background(
-                        RoundedRectangle(cornerRadius: 16)
-                            .fill(
-                                LinearGradient(
-                                    colors: [
-                                        .white.opacity(0.1),
-                                        .white.opacity(0.05),
-                                        .clear
-                                    ],
-                                    startPoint: .topLeading,
-                                    endPoint: .bottomTrailing
-                                )
-                            )
-                    )
-                    .overlay(
-                        RoundedRectangle(cornerRadius: 16)
-                            .stroke(
-                                LinearGradient(
-                                    colors: [
-                                        .white.opacity(0.2),
-                                        .white.opacity(0.1),
-                                        .clear
-                                    ],
-                                    startPoint: .topLeading,
-                                    endPoint: .bottomTrailing
-                                ),
-                                lineWidth: 1
-                            )
-                    )
-                    .shadow(color: .black.opacity(0.1), radius: 10, x: 0, y: 4)
-                    .shadow(color: .black.opacity(0.05), radius: 20, x: 0, y: 8)
-            }
-        )
+        }.liquidGlass(cornerRadius: 16.0)
     }
 }
 
@@ -74,6 +36,54 @@ struct SimpleCard<Content: View>: View {
                 .padding(padding)
         }
     }
+}
+
+private extension View {
+    func liquidGlass(cornerRadius: Double) -> some View {
+        if #available(iOS 26.0, *) {
+            return self.glassEffect(in: .rect(cornerRadius: cornerRadius))
+        } else {
+            return self.background(
+                ZStack {
+                    // Glass background
+                    RoundedRectangle(cornerRadius: cornerRadius)
+                        .fill(.ultraThinMaterial)
+                        .background(
+                            RoundedRectangle(cornerRadius: cornerRadius)
+                                .fill(
+                                    LinearGradient(
+                                        colors: [
+                                            .white.opacity(0.1),
+                                            .white.opacity(0.05),
+                                            .clear
+                                        ],
+                                        startPoint: .topLeading,
+                                        endPoint: .bottomTrailing
+                                    )
+                                )
+                        )
+                        .overlay(
+                            RoundedRectangle(cornerRadius: cornerRadius)
+                                .stroke(
+                                    LinearGradient(
+                                        colors: [
+                                            .white.opacity(0.2),
+                                            .white.opacity(0.1),
+                                            .clear
+                                        ],
+                                        startPoint: .topLeading,
+                                        endPoint: .bottomTrailing
+                                    ),
+                                    lineWidth: 1
+                                )
+                        )
+                        .shadow(color: .black.opacity(0.1), radius: 10, x: 0, y: 4)
+                        .shadow(color: .black.opacity(0.05), radius: 20, x: 0, y: 8)
+                }
+            )
+        }
+    }
+    
 }
 
 #Preview {
